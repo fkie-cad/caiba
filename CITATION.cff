@@ -1,0 +1,34 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+- family-names: "Wagner"
+  given-names: "Eric"
+- family-names: "Basels"
+  given-names: "Frederik"
+- family-names: "Bauer"
+  given-names: "Jan"
+- family-names: "Zimmermann"
+  given-names: "Till"
+- family-names: "Wehrle"
+  given-names: "Klaus"
+- family-names: "Henze"
+  given-names: "Martin"
+title: "CAIBA: Multicast Source Authentication for CAN Through Reactive Bit Flipping"
+preferred-citation:
+  type: conference-paper
+  authors:
+  - family-names: "Wagner"
+    given-names: "Eric"
+  - family-names: "Basels"
+    given-names: "Frederik"
+  - family-names: "Bauer"
+    given-names: "Jan"
+  - family-names: "Zimmermann"
+    given-names: "Till"
+  - family-names: "Wehrle"
+    given-names: "Klaus"
+  - family-names: "Henze"
+    given-names: "Martin"
+  journal: In Proceedings of the 10th IEEE European Symposium on Security and Privacy (EuroS&P'25)
+  title: "CAIBA: Multicast Source Authentication for CAN Through Reactive Bit Flipping"
+  year: 2025
