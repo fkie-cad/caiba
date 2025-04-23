@@ -1,6 +1,6 @@
-# CAIBA
-This repository provides the implementation of the three different types of nodes in a CAIBA secured CAN bus.
-CAIBA provides source authentication capabilities for multicast communication, using fast and easy to compute Message Authentication Codes (MACs) and was proposed in the paper "CAIBA: Multicast Source Authentication for CAN Through Reactive Bit Flipping", accepted for publication at EuroS&P 2025.
+# Compact And Instantaneous Bus Authentication (CAIBA)
+This repository provides the implementation of the security protocol proposed in the the paper "CAIBA: Multicast Source Authentication for CAN Through Reactive Bit Flipping", accepted for publication at EuroS&P 2025.
+It provides source authentication capabilities for multicast communication, using fast and easy to compute Message Authentication Codes (MACs).
 
 ### Getting Started
 The implementation is build on the code of the [Software-Defined CAN Controller (SDCC)](https://github.com/minimap-xl/sdcc), proposed by Cena et al. [1].
@@ -20,7 +20,7 @@ All transceivers have to be connected to a properly-terminated CAN bus, with one
 
 For an easy cross-platform build of each node, we used [platformio](https://platformio.org/).
 
-### Building and Running CAIBA
+### Building and Running
 Each node must be built independently.
 For using the platformio CLI, entering the respective directory and run
 ```bash
